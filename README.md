@@ -1,6 +1,54 @@
-# Getting Started with Create React App
+# ADC Rohtak Grievance System 🏛️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+A modern grievance management system for the Additional Deputy Commissioner's office in Rohtak, featuring an AI-powered chatbot for efficient complaint handling and citizen support.
+
+## Features 🌟
+- **User Authentication & Authorization**
+  - Secure login for citizens and officials
+  - Role-based access control
+  - Department-specific dashboards
+
+- **Grievance Management**
+  - Automated complaint registration
+  - Real-time status tracking
+  - Priority-based handling
+  - File attachments support
+  - Location tracking
+
+- **Smart Chatbot Integration**
+  - AI-powered complaint categorization
+  - Automated responses
+  - WhatsApp integration
+  - Multi-language support
+
+- **Department Management**
+  - Inter-department routing
+  - Performance analytics
+  - Resolution time tracking
+
+## Tech Stack 💻
+- **Frontend**: React.js, Material-UI
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **AI/ML**: Dialogflow
+- **Authentication**: JWT
+- **Communication**: WhatsApp API
+
+## Getting Started 🚀
+
+### Prerequisites
+- Node.js (v14 or higher)
+- MongoDB
+- npm/yarn
+
+### Installation
+1. Clone the repository
+2. Install frontend dependencies:
+   ```bash
+   cd adc-rohtak-chatbot
+   npm install
+   ```
 
 ## Available Scripts
 
